@@ -1,0 +1,44 @@
+h1 {
+    color: black ;
+    background-color: red;
+    width: 700px;
+}
+h2 {
+    color: red ;
+    background-color: yellow;
+    width: 700px;
+}
+p {
+    background-color: rgb(62, 218, 24);
+}
+h3 {
+    color: yellow ;
+    background-color: red;
+    width: 700px;
+}
+ol.styled-boxes li {
+    background-color:rgb(58, 66, 141);
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    
+    border-style: dashed;
+    border-width: 10px;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+Ol.laxt-boxes li {
+    background-color:rgb(163, 27, 38);
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    
+    border-style: ridge;
+    border-width: 10px;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
