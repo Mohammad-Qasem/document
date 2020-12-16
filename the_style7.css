@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(238, 203, 6) ;
+    width: 700px;
+    text-align: center
+}
+body  {
+    background-image: url("https://torange.biz/photofxnew/160/HD/light-blur-frame-fragment-background-bright-christmas-160330.jpg");
+    background-color: #f0b6b6;
+    
+}
+* {
+    box-sizing: border-box;
+  }
+  
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+h3{ 
+      text-align: center 
+    }
+
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.paragraph {
+    background-color: rgb(14, 218, 123);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+        
+    }
+
